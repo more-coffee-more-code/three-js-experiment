@@ -1,0 +1,2 @@
+const buffer = new ArrayBuffer(16);
+const floatArray = new Float32Array(buffer, 0, 4);
